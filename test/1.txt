@@ -1,6 +1,0 @@
-test
-test in master
-master2
-rebase2
-rebase2
-rebase3
